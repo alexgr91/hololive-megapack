@@ -11,10 +11,10 @@ This collection has both images and videos.
 Images are searched using the "tags:" attribute. All videos are searched using the "title:" attribute.
 
 Examples:
-Any picture containing miko: '''"tags:miko"'''<br />
-Any picture containing miko and not marine: '''"tags:miko NOT tags:marine"'''<br />
-Any picture containing miko and rushia: '''"tags:miko;rushia"'''<br />
-Any video containing gura: '''"title:gura"'''
+Any picture containing miko: ```tags:miko```<br />
+Any picture containing miko and not marine: ```tags:miko NOT tags:marine```<br />
+Any picture containing miko and rushia: ```tags:miko;rushia```<br />
+Any video containing gura: ```title:gura```
 
 ### All search tags currently supported
 sora<br />
